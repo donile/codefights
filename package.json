@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/donile/codefights/issues"
   },
-  "homepage": "https://github.com/donile/codefights#readme"
+  "homepage": "https://github.com/donile/codefights#readme",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
 }
