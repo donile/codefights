@@ -1,0 +1,23 @@
+{
+  "name": "code-fights",
+  "version": "1.0.0",
+  "description": "Solutions for problems on codefights.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donile/codefights.git"
+  },
+  "keywords": [],
+  "author": "Mark Donile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donile/codefights/issues"
+  },
+  "homepage": "https://github.com/donile/codefights#readme",
+  "devDependencies": {
+    "typescript": "^3.8.2"
+  }
+}
