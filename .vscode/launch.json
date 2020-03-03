@@ -11,10 +11,23 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/reverse-nodes-in-k-groups/solution.ts",
+            "program": "${workspaceFolder}/linked-list/reverse-nodes-in-k-groups.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
-                "${workspaceFolder}/reverse-nodes-in-k-groups/solution.js"
+                "${workspaceFolder}/dist/reverse-nodes-in-k-groups.js"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "rearrange-last-n",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/linked-list/rearrange-last-n.ts",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "outFiles": [
+                "${workspaceFolder}/dist/rearrange-last-n.js"
             ]
         }
     ]
