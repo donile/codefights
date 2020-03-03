@@ -11,10 +11,10 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/reverse-nodes-in-k-groups/solution.ts",
+            "program": "${workspaceFolder}/linked-list/reverse-nodes-in-k-groups/solution.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
-                "${workspaceFolder}/reverse-nodes-in-k-groups/solution.js"
+                "${workspaceFolder}/linked-list/reverse-nodes-in-k-groups/solution.js"
             ]
         }
     ]
